@@ -32,12 +32,13 @@
 
 	.buttons div {
 		display: inline-block;
-		margin-top: 2rem;
+		margin-bottom:1rem; 
 		color: #fff;
 		height: 40px; 
 	}
 
 	.buttons #getNewQuote{
+		margin-top: 1.3rem;
 		margin-right: 3rem;
 		float: right;
 
@@ -57,3 +58,8 @@
 	.buttonStyle:hover {
 		opacity: 0.85;
 	}
+
+	.social-buttons {
+	 margin-top: 0.5rem;
+    margin-left: 1rem;
+}
